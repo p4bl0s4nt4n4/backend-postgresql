@@ -1,4 +1,4 @@
-# backend-postgresql" 
+# backend-postgresql 
 Aplicación backend hecha en Spring Boot con validaciones, JPA, Postgresql. De adjunta carpeta `base_datos` donde estan el script sql para creacion de tabla e inserción de datos, asi como también archivo docker compose para levantar contenedor de base de datos.
 
 ## Consideraciones
